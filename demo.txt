@@ -1,0 +1,24 @@
+-b -a x21s -o stratum+tcp://eu.gos.cx:3323 -u B913FNtZfC4c1VXccbnMC56oKjzF9tN22h -p RITO2
+-s D:\NProject\MiningMini\Win32\Debug\T-rex\t-rex.exe
+-r 40
+-f 90
+-p 100
+-t 60
+-g 50
+-m 50
+-k 0 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 1 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 2 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 3 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 4 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 5 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 6 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 7 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 8 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 9 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 10 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 11 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 12 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 13 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 14 -f 90 -p 50 -t 60 -g 50 -m 50
+-k 15 -f 90 -p 50 -t 60 -g 50 -m 50
